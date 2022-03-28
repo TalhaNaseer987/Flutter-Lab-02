@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "flutter-lab-02"
+  },
+  "targets": {
+    "flutter-lab-02": {
+      "hosting": {
+        "lab-02-q-02": [
+          "flutter-lab-02-q-02"
+        ]
+      }
+    }
+  }
+}

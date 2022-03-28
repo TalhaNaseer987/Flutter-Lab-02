@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "target":"lab-02-q-02",
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
